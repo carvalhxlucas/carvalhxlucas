@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Lucas! 👋
 
-<!--
-**carvalhxlucas/carvalhxlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:small_blue_diamond: I'm 25 yo <br>
+👨‍💻 Ethical Hacker | 🔴 Red Team  <br>
+:small_orange_diamond: Born in Florianópolis, Brazil <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/carvalhxlucas/carvalhxlucas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carvalhxlucas&hide=contribs,prs"/>
+</a>
+<br>
+
+
+ :red_heart: You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>
+
+
+🚀 [Website](https://carvalhxlucas.tech) <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]<br>(https://www.linkedin.com/in/carvalhxlucas/)
