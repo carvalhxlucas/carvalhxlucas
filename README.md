@@ -15,4 +15,4 @@
 
 
 🚀 [Website](https://carvalhxlucas.tech) <br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]<br>(https://www.linkedin.com/in/carvalhxlucas/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carvalhxlucas/)
