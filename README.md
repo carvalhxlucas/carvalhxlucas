@@ -11,7 +11,7 @@
 <br>
 
 
- :red_heart: You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>
+ <br> 🎥 You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>
 
 
 🚀 [Website](https://carvalhxlucas.tech) <br>
