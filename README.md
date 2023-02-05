@@ -2,7 +2,7 @@
 
 
 :small_blue_diamond: I'm 25 yo <br>
-👨‍💻 Ethical Hacker | 🔴 Red Team  <br>
+<!--👨‍💻 Ethical Hacker | 🔴 Red Team  <br>-->
 :small_orange_diamond: Born in Florianópolis, Brazil <br>
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
