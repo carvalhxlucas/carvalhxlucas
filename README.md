@@ -2,7 +2,7 @@
 
 
 :small_blue_diamond: I'm 25 yo <br>
-<!--👨‍💻 Ethical Hacker | 🔴 Red Team  <br>-->
+👨‍💻 Mobile Developer | Android 💚 <br>
 :small_orange_diamond: Born in Florianópolis, Brazil <br>
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
@@ -11,7 +11,7 @@
 <br>
 
 
- <br> 🎥 You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>
+ <!--<br> 🎥 You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>-->
 
 
 🚀 Check my [Website](https://carvalhxlucas.tech) <br>
