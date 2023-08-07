@@ -2,7 +2,7 @@
 
 
 :small_blue_diamond: I'm 25 yo <br>
-👨‍💻 Mobile Developer <br>
+<!-- 👨‍💻 Mobile Developer <br> -->
 :small_orange_diamond: Born in Florianópolis, Brazil <br>
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
