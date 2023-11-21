@@ -11,7 +11,6 @@
 <br>
 
 <p> </p>
-<br> 🎥 You can watch me on [Youtube](https://www.youtube.com/@carvalhxlucas) <br>
 
 
 🚀 Check my [Website](https://lucascarvalho.tech) <br>
