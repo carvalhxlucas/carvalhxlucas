@@ -3,7 +3,7 @@
 
  Mobile Developer | Florianópolis, Brazil
 
-Welcome to my profile! I'm passionate about mobile development and I'm on a continuous journey to push the limits of technology. My expertise lies in creating efficient and robust apps for optimized performance.
+Welcome to my profile! I'm passionate about mobile development and I'm on a continuous journey to push the limits of technology.
 
 ## 📚 Summary
 
