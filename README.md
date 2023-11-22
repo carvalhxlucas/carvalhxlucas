@@ -17,7 +17,6 @@ Welcome to my profile! I'm passionate about mobile development and I'm on a cont
 [![Android](https://img.shields.io/badge/-Android-%23A7C840?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Dart](https://img.shields.io/badge/-Dart-%231DBBFD?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
