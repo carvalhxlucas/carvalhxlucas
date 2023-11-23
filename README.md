@@ -35,7 +35,7 @@ My specialization is in mobile development using the Flutter framework, creating
 - Shares insights and experiences through blog posts and contributions to tech forums.
 
 ## 🌍 Let's Connect
-Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology. ⚡
+Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology.
 
   <a href="https://www.linkedin.com/in/carvalhxlucas" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
