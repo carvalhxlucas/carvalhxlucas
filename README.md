@@ -13,9 +13,7 @@ Welcome to my profile! I'm passionate about mobile development and I'm on a cont
 - Strong understanding of Flutter framework for building natively compiled applications.
 - Experience with mobile app architecture, state management, and RESTful API integration.
 
-[![Flutter](https://img.shields.io/badge/-Flutter-%231DBBFD?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Android](https://img.shields.io/badge/-Android-%23A7C840?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![Dart](https://img.shields.io/badge/-Dart-%231DBBFD?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![JavaScript](https://img.shields.io/badge/-Flutter-%23#FDDC00?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
