@@ -10,14 +10,10 @@ Welcome to my profile! I'm passionate about backend development and I'm on a con
 - Proficient in creating robust and scalable server-side applications.
 - Expertise in JavaScript and TypeScript programming languages.
 - Strong understanding of backend architecture, RESTful API design, and database management (MySQL).
-- Experience with frontend technologies such as React and Electron for building user interfaces.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Nest.js](https://img.shields.io/badge/-Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Electron](https://img.shields.io/badge/-Electron-%234478E6?style=for-the-badge&logo=electron&logoColor=white)  
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
