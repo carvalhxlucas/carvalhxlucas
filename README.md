@@ -9,7 +9,7 @@ Welcome to my profile! I'm passionate about backend development and I'm on a con
 - Passionate backend developer with expertise in Node.js, Typescript, and Nest.js.
 - Proficient in creating robust and scalable server-side applications.
 - Expertise in JavaScript and TypeScript programming languages.
-- Strong understanding of backend architecture, RESTful API design, and database management (MySQL).
+- Strong understanding of backend architecture, RESTful API design, and database management.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
