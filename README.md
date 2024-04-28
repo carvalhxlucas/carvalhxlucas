@@ -12,9 +12,12 @@ Welcome to my profile! I'm passionate about backend development and I'm on a con
 - Strong understanding of backend architecture, RESTful API design, and database management (MySQL).
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Typescript-%234287f5?style=for-the-badge&logo=typescript&logoColor=white) 
-[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carvalhxlucas&hide=contribs,prs"/>
