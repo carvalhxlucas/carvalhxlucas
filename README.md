@@ -6,14 +6,14 @@ Welcome to my profile! I'm passionate about backend development and I'm on a con
 
 ## Summary 
 
-- Passionate backend developer with expertise in Node.js, Express, and Nest.js.
+- Passionate backend developer with expertise in Node.js, Typescript, and Nest.js.
 - Proficient in creating robust and scalable server-side applications.
 - Expertise in JavaScript and TypeScript programming languages.
 - Strong understanding of backend architecture, RESTful API design, and database management (MySQL).
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white) 
+![Express](https://img.shields.io/badge/-Typescript-%23000000?style=for-the-badge&logo=typescript&logoColor=white) 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 
 <a href="https://github.com/carvalhxlucas/carvalhxlucas">
