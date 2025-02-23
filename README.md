@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Lucas Carvalho
 
  Software Engineer | Florianópolis, Brazil
-
+<!--
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -11,12 +11,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
 <div style="display: flex;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carvalhxlucas&theme=dracula&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhxlucas&layout=compact&langs_count=5&icon_color=777bd9&title_color=777bd9&bg_color=1a181a&text_color=FFFF" />
 </div>
-
+-->
 ## Let's Connect 🌎
 
   <a href="https://www.linkedin.com/in/carvalhxlucas" target="_blank">
