@@ -1,8 +1,13 @@
 # Hi, I'm Lucas :wave:
 
-Always learning. 🤟🏻
+### 👨‍💻 About me
 
-## Skills
+- Fullstack developer
+- Always learning. 🤟🏻
+
+---
+
+### 🛠 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -14,9 +19,9 @@ Always learning. 🤟🏻
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 
-## ✨ Other things
-
 ---
+
+### 📫 Stay in touch
 
 <a href="https://www.linkedin.com/in/carvalhxlucas">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
