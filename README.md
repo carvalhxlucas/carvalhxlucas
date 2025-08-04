@@ -1,9 +1,7 @@
 # Hi, I'm Lucas :wave:
 
-### 👨‍💻 About me
-
-- Fullstack developer
-- Always learning. 🤟🏻
+- 👨‍💻 Fullstack developer
+- 🤘🏻 Always learning
 
 ---
 
