@@ -24,9 +24,9 @@
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/carvalhxlucas">
+<!--<a href="https://twitter.com/carvalhxlucas">
   <img height="32" align="left" alt="X" src="img/icons/x.png" />
-</a>
+</a>-->
 
 <!-- <a href="https://paypal.me/dnguy38">
   <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
