@@ -1,6 +1,6 @@
 # Hi, I'm Lucas :wave:
 
-- 👨‍💻 ML Engineer - MLOps
+- 👨‍💻 AI/ML Engineer - MLOps
 - 🤘🏻 Always learning
 
 ---
@@ -17,6 +17,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 -->
 ---
+### 🛠 Certifications
+
+### 🛠 My Portfolio
 
 ### 📫 Stay in touch
 
