@@ -1,6 +1,6 @@
 # Hi, I'm Lucas :wave:
 
-- 👨‍💻 AI/ML Engineer - MLOps
+- 👨‍💻 Software Engineer
 - 🤘🏻 Always learning
 ---
 
