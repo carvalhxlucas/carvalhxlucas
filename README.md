@@ -1,12 +1,7 @@
 # Hi, I'm Lucas :wave:
 
-- 👨‍💻 DevOps/Plataform Engineer
+- 👨‍💻 Software Engineer
 - 🤘🏻 Always learning
----
-
-### 🗂️ Check my portfolio!
-
-![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 ---
 
 ### 📫 Stay in touch
