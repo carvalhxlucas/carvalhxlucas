@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Software Engineer / AI Engineer focused on smart, efficient systems. I build impactful products by combining solid software engineering foundations with modern technologies to optimize processes.</p>
+<p align="left">AI Engineer focused on smart, efficient systems. I build impactful products by combining solid software engineering foundations with modern technologies to optimize processes.</p>
 
 ###
 
